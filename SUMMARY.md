@@ -13,7 +13,7 @@
 * [表格](table.md)
     * [外观](form/layout.md)
     * [行为](form/action.md)
-* [表格](list.md)
+* [列表](list.md)
     * [外观](list/look.md)
     * [行为](list/action.md)
 * [图片](common/image.md)
