@@ -11,7 +11,7 @@
         * [普通控件](form/common_form_control.md)
 * [表格](table.md)
     * 布局
-    * 行为
+    * [行为](行为.md)
 * [通用](loading-动画.md)
     * [Loading 动画](common/loading_animation.md)
     * [信息提示](common/message_information_notification.md)
