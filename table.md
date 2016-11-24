@@ -1,8 +1,8 @@
 # 表格
 
- * [外观](布局.md)
+ * [外观](form/layout.md)
 
- * [行为](行为.md)
+ * [行为](form/action.md)
 
 
 ##### 布局
