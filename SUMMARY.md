@@ -2,7 +2,7 @@
 
 * [写在前面](README.md)
 * [表单](chapter1.md)
-    * [布局](布局.md)
+    * [外观](布局.md)
     * [行为](行为.md)
         * [表单提交](form/biaodan_ti_jiao.md)
         * [表单验证](form/biao_dan_yan_zheng.md)
