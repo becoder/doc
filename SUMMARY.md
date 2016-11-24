@@ -10,7 +10,7 @@
     * [元素](form/yuan_su.md)
         * [普通控件](form/common_form_control.md)
 * [表格](table.md)
-    * 布局
+    * [布局](布局.md)
     * [行为](行为.md)
 * [通用](loading-动画.md)
     * [Loading 动画](common/loading_animation.md)
