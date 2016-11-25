@@ -15,7 +15,7 @@ http://www.jianshu.com/p/1e402922ee32/
 
 http://wowubuntu.com/markdown/#list
 
-4. WePact团队之外的朋友暂时不要pull了，欢迎issue/comment。
+#####WePact团队之外的朋友暂时不要pull了，欢迎issue/comment。
 
 感谢李丹，让此书得以源起。
 
