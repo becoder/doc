@@ -9,6 +9,7 @@
             * [表单验证的常见正则表达式](form/regular_experssions_.md)
     * [元素](form/yuan_su.md)
         * [标准控件](form/common_form_control.md)
+        * [特殊控件](form/advanced_form_control.md)
 * [表格](table.md)
     * [外观](form/layout.md)
     * [行为](form/action.md)
