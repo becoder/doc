@@ -36,6 +36,7 @@
 ![](/assets/checkbox.jpg)
 
 * 标签要始终在选择框的右侧。
+* 尽量选择垂直排列，水平排列会造成阅读困扰。
 * 确保点击标签和点击选择框的效果相同，也就是说用户可以通过点击标签或者选择框来进行选中和未选中。通过设置label标签的for属性实现：
   ```
   <input id="truth" type="checkbox" value="truth" checked=""> 
