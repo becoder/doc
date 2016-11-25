@@ -39,5 +39,6 @@
 ```
 <input id="truth" type="checkbox" name="historical-figures-1" value="truth" checked=""> 
 <label for="truth">选中</label>
+
 ```
 
