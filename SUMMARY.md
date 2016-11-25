@@ -8,7 +8,7 @@
         * [表单验证](form/biao_dan_yan_zheng.md)
             * [表单验证的常见正则表达式](form/regular_experssions_.md)
     * [元素](form/yuan_su.md)
-        * [普通控件](form/common_form_control.md)
+        * [标准控件](form/common_form_control.md)
 * [表格](table.md)
     * [外观](form/layout.md)
     * [行为](form/action.md)
