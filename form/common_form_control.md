@@ -1,4 +1,4 @@
-# 普通控件
+![](/assets/checkbox.jpg)# 普通控件
 
 ## 文本框
 
