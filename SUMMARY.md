@@ -13,7 +13,7 @@
 * [表格](table.md)
     * [外观](form/layout.md)
     * [行为](form/action.md)
-* [通用](loading-动画.md)
+* [通用](common.md)
     * [Loading 动画](common/loading_animation.md)
     * [信息提示](common/message_information_notification.md)
         * [提示（Alert & Confirm）](common/提示（alert--confirm）.md)
