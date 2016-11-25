@@ -41,5 +41,5 @@
   <input id="truth" type="checkbox" value="truth" checked=""> 
   <label for="truth">选中</label>
   ```
-* checkbox选项不宜太多。
+* checkbox选项最好在一屏内完全显示（移动端要注意）。
 
