@@ -36,8 +36,7 @@
 
 * 标签要始终在选择框的右侧。
 * 确保点击标签和点击选择框的效果相同，设置label标签的for属性。
-`
+```
 <input id="truth" type="checkbox" name="historical-figures-1" value="truth" checked=""> <label for="truth">选中</label>
-
-`
+```
 
