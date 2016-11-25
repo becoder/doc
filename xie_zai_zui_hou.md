@@ -9,7 +9,7 @@
 
 2. 到[这里](https://github.com/becoder/doc)来 pull request，提交你要写的代码
 
-3. 学习Markdown语言，或者直接使用Gitbook Editor.
+3. 学习Markdown语言，或者直接使用[Gitbook Editor](https://www.gitbook.com/editor).
 
 http://www.jianshu.com/p/1e402922ee32/
 
