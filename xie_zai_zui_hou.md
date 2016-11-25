@@ -6,7 +6,9 @@
 ###如何参与本书写作。
 1.注册一个github账号，了解到如何在github上pull request。
 
-2.
+2.到[这里](https://github.com/becoder/doc)来 pull request，提交你要写的代码
+
+3.
 
 感谢李丹，让此书得以源起。
 
