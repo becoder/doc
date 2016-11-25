@@ -36,7 +36,7 @@
 ![](/assets/checkbox.jpg)
 
 * 标签要始终在选择框的右侧。
-* 确保点击标签和点击选择框的效果相同，用户可以通过点击标签或者选择框来进行选中和未选中。通过设置label标签的for属性实现：
+* 确保点击标签和点击选择框的效果相同，也就是说用户可以通过点击标签或者选择框来进行选中和未选中。通过设置label标签的for属性实现：
   ```
   <input id="truth" type="checkbox" value="truth" checked=""> 
   <label for="truth">选中</label>
