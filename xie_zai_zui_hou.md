@@ -9,8 +9,10 @@
 
 2. 到[这里](https://github.com/becoder/doc)来 pull request，提交你要写的代码
 
-3. 学习Markdown语言，
+3. 学习Markdown语言
+
 http://www.jianshu.com/p/1e402922ee32/
+
 http://wowubuntu.com/markdown/#list
 
 4. WePact团队之外的朋友暂时不要pull了，欢迎issue/comment。
