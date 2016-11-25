@@ -8,7 +8,7 @@
 
 2.到[这里](https://github.com/becoder/doc)来 pull request，提交你要写的代码
 
-3.
+3.学习如何使用
 
 感谢李丹，让此书得以源起。
 
