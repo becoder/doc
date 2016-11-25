@@ -14,6 +14,8 @@
     * [外观](form/layout.md)
     * [行为](form/action.md)
 * [图片](common/image.md)
+ * [单个图片](image/single_image.md)
+ * [幻灯／相册](common/image_list.md)
 * [信息提示](common/message_information_notification.md)
  * [提示（Alert & Confirm）](common/提示（alert--confirm）.md)
  * [通知（Notification）](common/通知（notification）.md)
