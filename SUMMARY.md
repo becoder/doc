@@ -13,15 +13,15 @@
 * [表格](table.md)
     * [外观](form/layout.md)
     * [行为](form/action.md)
+* [图片](common/image.md)
+* [信息提示](common/message_information_notification.md)
+ * [提示（Alert & Confirm）](common/提示（alert--confirm）.md)
+ * [通知（Notification）](common/通知（notification）.md)
+ * [弹窗（Modal Dialog）](common/弹窗（modal-dialog）.md)
+ * 其他（Popover & Tooltip）
 * [通用](common.md)
-    * [Loading 动画](common/loading_animation.md)
-    * [信息提示](common/message_information_notification.md)
-        * [提示（Alert & Confirm）](common/提示（alert--confirm）.md)
-        * [通知（Notification）](common/通知（notification）.md)
-        * [弹窗（Modal Dialog）](common/弹窗（modal-dialog）.md)
-        * 其他（Popover & Tooltip）
+    * [Loading 动画](common/loading_animation.md) 
     * [图标](common/icon.md)
     * [链接](links.md)
-* [图片](common/image.md)
 * [写在最后](xie_zai_zui_hou.md)
 
