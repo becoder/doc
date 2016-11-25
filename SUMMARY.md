@@ -22,5 +22,6 @@
         * 其他（Popover & Tooltip）
     * [图标](common/icon.md)
     * [链接](links.md)
+    * [图片](common/image.md)
 * [写在最后](xie_zai_zui_hou.md)
 
