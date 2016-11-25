@@ -2,8 +2,8 @@
 
 * [写在前面](README.md)
 * [表单](chapter1.md)
-    * [外观](布局.md)
-    * [行为](行为.md)
+    * [外观](form/layout.md)
+    * [行为](form/action.md)
         * [表单提交](form/biaodan_ti_jiao.md)
         * [表单验证](form/biao_dan_yan_zheng.md)
             * [表单验证的常见正则表达式](form/regular_experssions_.md)
