@@ -10,6 +10,8 @@
 ###常见自定义实现
 
 #####字数提示
-在input框右侧显示文本框的最大字符长度和当前字符长度，有很好辅助提示效果，用户体验良好。
+在input框右侧显示文本框的最大字符长度和当前字符长度，有很好辅助提示效果，用户体验良好。如下图：
 ![](/assets/input-text-charater-counter.jpg)
+
+在多个项目中均有实现，可以封装为Angular的directive或者component。
 
