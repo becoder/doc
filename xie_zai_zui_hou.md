@@ -7,7 +7,7 @@
 
 1. 注册一个github账号，了解到如何在github上pull request。
 
-2. 到[这里](https://github.com/becoder/doc)来 pull request，提交你要写的代码
+2. 到[这里](https://github.com/becoder/doc)来 pull request，提交你要修改的内容
 
 3. 学习Markdown语言，或者直接使用[Gitbook Editor](https://www.gitbook.com/editor).
 
