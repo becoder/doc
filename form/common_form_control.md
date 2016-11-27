@@ -49,5 +49,5 @@
 大部分内容与复选框一致，当只有俩个选项时，可以考虑使用[toggle控件](/form/advanced_form_control.md)
 
 ## 按钮
-
+* 按钮内文字不要超过5个。
 
