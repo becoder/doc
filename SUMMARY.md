@@ -14,7 +14,7 @@
     * [外观](form/layout.md)
     * [行为](form/action.md)
 * [表格](list.md)
-    * [外观](list/layout.md)
+    * [外观](list/look.md)
     * [行为](list/action.md)
 * [图片](common/image.md)
     * [单个图片](image/single_image.md)
