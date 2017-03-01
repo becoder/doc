@@ -1,6 +1,6 @@
 #表单提交
 ###提交方式
-无特殊情况下，表单提交采取POST方式。(延伸阅读: [POST vs GET](http://www.w3schools.com/tags/ref_httpmethods.asp))
+无特殊情况下，表单提交采取POST方式。延伸阅读: [POST vs GET](http://www.w3schools.com/tags/ref_httpmethods.asp) 
 ###提交过程
 所有AJAX方式的表单提交，在提交过程中应显示[Loading效果](../common/loading_animation.md)
 ###回车触发
