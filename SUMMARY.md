@@ -30,6 +30,5 @@
   * [Loading 动画](common/loading_animation.md)
   * [图标](common/icon.md)
   * [链接](links.md)
-
-
+  * [响应式](common/responsitive_design.md)
 
